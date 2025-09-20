@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Shreya Deore and I'm a Computer Engineer, from Maharashtra</h2>
+<h2 align="left">Hi 👋! My name is Shreya Deore and I'm a Data Enthusiast</h2>
 
 ###
 
